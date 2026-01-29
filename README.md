@@ -8,3 +8,6 @@ STEPS TO USE THE APPLICATION
 1. Go to www.acityattendance.com
 2. login with your student credentials
 3. open the course , and then mark your attendance 
+
+
+for any issues contact support, support@acityattendance.comg
